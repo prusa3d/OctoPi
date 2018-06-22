@@ -39,7 +39,7 @@ Features
 --------
 
 * `OctoPrint <http://octoprint.org>`_ host software for 3d printers out of the box
-* `Raspbian <http://www.raspbian.org/>`_ tweaked for maximum preformance for printing out of the box
+* `Raspbian <http://www.raspbian.org/>`_ tweaked for maximum performance for printing out of the box
 * `mjpg-streamer with RaspiCam support <https://github.com/jacksonliam/mjpg-streamer>`_ for live viewing of prints and timelapse video creation.
 * `CuraEngine <https://github.com/Ultimaker/CuraEngine>`_ pre-installed for slicing directly on the Raspberry Pi
 
@@ -91,7 +91,7 @@ There is a vagrant machine configuration to let build OctoPi in case your build 
 
 Make sure you have a version of vagrant later than 1.9!
 
-If you are using older versions of Ubuntu/Debian and not using apt-get `from the download page <https://www.vagrantup.com/downloads.html>`_.
+If you are using older versions of Ubuntu/Debian and not using apt-get from the download page <https://www.vagrantup.com/downloads.html>`_.
 
 To use it::
     

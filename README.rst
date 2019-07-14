@@ -105,7 +105,7 @@ There is a vagrant machine configuration to let build OctoPi in case your build 
 
 Make sure you have a version of vagrant later than 1.9!
 
-If you are using older versions of Ubuntu/Debian and not using apt-get `from the download page <https://www.vagrantup.com/downloads.html>`_.
+If you are using older versions of Ubuntu/Debian and not using apt-get from the download page <https://www.vagrantup.com/downloads.html>`_.
 
 To use it::
     
